@@ -1,5 +1,5 @@
 <h1> 「 Piscina 42SP - 2023」 </h1>
-<p align=center ><img src = 'foto.jpeg'></p>
+<p align=center ><img src = 'foto.jpg'></p>
 
 ------------------------------------------------------------------------------------
 
